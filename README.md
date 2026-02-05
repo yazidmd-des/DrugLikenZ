@@ -67,7 +67,7 @@ The application requires Python 3.x and the following dependencies:
 
 If you use this software in your research, please use the following citation:
 
-> Mahdaoui, Y., & Zakkoumi, H. (2026). **DrugLikenZ: An Open-Source Graphical User Interface for Batch Evaluation of Rule-of-Five Compliance**. Zenodo. 
+> Mahdaoui, Y., & Zakkoumi, H. (2026). **DrugLikenZ: An Open-Source Graphical User Interface for Batch Evaluation of Rule-of-Five Compliance**. Zenodo. https://doi.org/10.5281/zenodo.18500549
 
 ## License
 
