@@ -69,6 +69,8 @@ If you use this software in your research, please use the following citation:
 
 > Mahdaoui, Y., & Zakkoumi, H. (2026). **DrugLikenZ: An Open-Source Graphical User Interface for Batch Evaluation of Rule-of-Five Compliance**. Zenodo. ```https://doi.org/10.5281/zenodo.18500549```
 
+[![DOI](https://zenodo.org/badge/1150980540.svg)](https://doi.org/10.5281/zenodo.18500549)
+
 ## License
 
 This project is licensed under the **MIT License** - see the `LICENSE` file for details.
