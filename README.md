@@ -73,4 +73,5 @@ If you use this software in your research, please use the following citation:
 
 ## License
 
-This project is licensed under the **MIT License** - see the `LICENSE` file for details.
+This project is licensed under the **Creative Commons Attribution 4.0 International** 
+The Creative Commons Attribution license allows re-distribution and re-use of a licensed work on the condition that the creator is appropriately credited.
