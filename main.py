@@ -603,7 +603,7 @@ class App(ctk.CTk):
         year = "2026"
         title = "DrugLikenZ: An Open-Source Graphical User Interface for Batch Evaluation of Rule-of-Five Compliance"
         publisher = "Zenodo"
-        doi = "https://doi.org/10.5281/zenodo.18500550"
+        doi = "https://doi.org/10.5281/zenodo.18500549"
 
         # --- 2. Format Logic ---
         def get_formatted_citations():
