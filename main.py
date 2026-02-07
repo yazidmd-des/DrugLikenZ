@@ -601,7 +601,7 @@ class App(ctk.CTk):
         author2_initial = "H."
 
         year = "2026"
-        title = "DrugLikenZ: An Open-Source Graphical User Interface for Batch Evaluation of Rule-of-Five Compliance"
+        title = "DrugLikenZ: An Open-Source Graphical User Interface for Multi-Rule Drug-Likeness and Batch Property Evaluation"
         publisher = "Zenodo"
         doi = "https://doi.org/10.5281/zenodo.18500549"
 
